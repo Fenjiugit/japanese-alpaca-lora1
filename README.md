@@ -39,3 +39,5 @@ Input: 「3x + 2= 20」という方程式を解くとxはいくつになりま�
 Alpaca-LoRA-Output:  x = 6
 Japanese-Alpaca-LoRA-Output:「3x + 2 = 20」という方程式を解くと、xは2です。」
 ```
+### new llama-model
+daryl149/llama-2-7b-chat-hf
